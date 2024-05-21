@@ -1,0 +1,51 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Vizsga",
+    "dateExported": "2024-05-21T12:43:21.272Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "4c9ff6f5-94cb-4c4d-adee-24a1330a30ff",
+            "colId": "3892e194-7bb9-4345-96ef-24b6bec32448",
+            "containerId": "",
+            "name": "getSzavak",
+            "url": "http://localhost:8000/api/szavak",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-21T12:42:10.009Z",
+            "modified": "2024-05-21T12:42:18.910Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "380c75d1-a913-416b-a88e-1ed90531e7bc",
+            "colId": "3892e194-7bb9-4345-96ef-24b6bec32448",
+            "containerId": "",
+            "name": "getSzavakTemaSzerint",
+            "url": "http://localhost:8000/api/szavak/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-05-21T12:42:40.735Z",
+            "modified": "2024-05-21T12:42:55.362Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "94fd2e15-5d11-4e43-b175-fa6bb7b2e43f",
+            "colId": "3892e194-7bb9-4345-96ef-24b6bec32448",
+            "containerId": "",
+            "name": "getTema",
+            "url": "http://localhost:8000/api/tema",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-05-21T12:43:05.656Z",
+            "modified": "2024-05-21T12:43:15.680Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
